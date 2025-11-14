@@ -1,0 +1,1 @@
+A computational tool to calculate the surface warpage caused in FDM printing, which is an additive manufacturing process, a part of the Rapid prototyping Manufacturing suite, understanding the 3D surface topology (warpage) of the printed part using 2D images (silhouette) of the part taken under bright and uniform lighting conditions.  
